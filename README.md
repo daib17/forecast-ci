@@ -3,10 +3,10 @@ Weather Forecast Module
 
 [![Build Status](https://travis-ci.com/daib17/forecast-ci.svg?branch=master)](https://travis-ci.com/daib17/forecast-ci/)
 [![CircleCI](https://circleci.com/gh/daib17/forecast-ci.svg?style=svg)](https://circleci.com/gh/daib17/forecast-ci)
-
 [![Build Status](https://scrutinizer-ci.com/g/daib17/forecast-ci/badges/build.png?b=master)](https://scrutinizer-ci.com/g/daib17/forecast-ci/build-status/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/daib17/forecast-ci/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/daib17/forecast-ci/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/daib17/forecast-ci/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/daib17/forecast-ci/?branch=master)
+[![SymfonyInsight](https://insight.symfony.com/projects/1b56fcf5-c9e0-49af-8a5f-a58fbf8ed818/mini.svg)](https://insight.symfony.com/projects/1b56fcf5-c9e0-49af-8a5f-a58fbf8ed818)
 
 The Weather Forecast module allows you to request both forecasts and historical weather data from the past month.
 
